@@ -25,7 +25,7 @@ Using the slicing concept rotate the list
     print("After circulating the values are:",result)
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/118352907/225654474-e4fde943-7114-411a-bf53-e4c4a146a001.png)
+![image](https://user-images.githubusercontent.com/118352907/225814557-3a0bab91-7208-42c3-b082-36ce934e3b87.png)
 
 ## Result:
 Thus the program for circulate n variable is executed successfully.
